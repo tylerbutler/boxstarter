@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>TylerBu.Boxstarter.Clean</id>
+    <version>0.1.0</version>
+    <authors>tylerbu</authors>
+    <owners>tylerbu</owners>
+    <description>TylerBu clean box setup</description>
+    <tags>Boxstarter</tags>
+  </metadata>
+</package>
